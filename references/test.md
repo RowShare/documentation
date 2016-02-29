@@ -12,6 +12,7 @@ This text is a paragraph with a list :
     * Item c
 * Item 2
 
-This is a paragraph.
+{: ssb:name="test"}This is a paragraph.
 
 This is another paragraph. It also has two sentences.
+
