@@ -12,9 +12,9 @@ This text is a paragraph with a list :
     * Item c
 * Item 2
 
-[//]: # (Field 0)
+[//]: # (@ssb_name:Field 0)
 This is a paragraph.
 
-[//]: # (Field 1)
+[//]: # (@ssb_name:Field 1)
 This is another paragraph. It also has two sentences.
 
