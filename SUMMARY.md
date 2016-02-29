@@ -5,6 +5,8 @@
     * [From a file](getting-started/from-a-file.md)
 * References
     * [Test](references/test.md)
+    * [Test With Image](references/test-with-image.md)
 * Faq
     * [Popular Questions](faq/popular-questions.md)
     * [For Business](faq/for-business.dm)
+
