@@ -15,4 +15,3 @@ This text is a paragraph with a list :
 This is a paragraph.
 
 This is another paragraph. It also has two sentences.
-ZZZZZ
