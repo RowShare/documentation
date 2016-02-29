@@ -1,5 +1,5 @@
 # Summary
-* Getting-Started
+* Getting started
     * [From a blank table](getting-started/from-blank-table.md)
     * [From templates](getting-started/from-templates.md)
     * [From a file](getting-started/from-a-file.md)
